@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1Gi4y1B78w/](https://www.bilibili.com/video/BV1Gi4y1B78w/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+ssm的宠物店商城系统(源代码+数据库)632
 
